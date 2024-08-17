@@ -6,7 +6,7 @@ Welcome to FastKart Online store is a comprehensive online platform designed to 
 * **User Registration and Login**: Secure account creation and management for users.
 * **Password Management**: Easily change your password, enhancing account security and user control.
 * **Product Catalog**: A well-organized and searchable product listing with categories, filters, and sorting options.
-* **Croud Operations**: Flexibility of adding, deleting, and updating cart products, making your shopping experience dynamic.
+* **Crud Operations**: Flexibility of adding, deleting, and updating cart products, making your shopping experience dynamic.
 * **Product Details**: Detailed product pages with images, descriptions, specifications, pricing, and reviews.
 * **Shopping Cart**: A user-friendly shopping cart that allows customers to add, remove, and edit items.
 * **Online payment**: Securely complete your purchases with the integration of Stripe for seamless online payment transactions.
